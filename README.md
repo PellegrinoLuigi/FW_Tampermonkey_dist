@@ -10,9 +10,13 @@ Versioni **cifrate** (AES-256-GCM) dei tool Tampermonkey. Il codice sorgente non
 
 | Tool | Loader |
 |---|---|
+| Test Support Tool | [installa loader](https://raw.githubusercontent.com/PellegrinoLuigi/FW_Tampermonkey_dist/main/loaders/complete.user.js) |
 | Test Support Tool - Notes | [installa loader](https://raw.githubusercontent.com/PellegrinoLuigi/FW_Tampermonkey_dist/main/loaders/notes.user.js) |
 | Test Support Tool - InOrder | [installa loader](https://raw.githubusercontent.com/PellegrinoLuigi/FW_Tampermonkey_dist/main/loaders/inorder.user.js) |
 | Test Support Tool - VarPre | [installa loader](https://raw.githubusercontent.com/PellegrinoLuigi/FW_Tampermonkey_dist/main/loaders/varpre.user.js) |
+
+**Test Support Tool** riunisce Notes, InOrder e VarPre in un unico pannello: installa lui
+*oppure* i tre tool separati, non entrambi (vedresti due pulsanti sulla stessa pagina).
 
 Gli aggiornamenti dei tool arrivano automaticamente al caricamento della pagina.
 Password cambiata? Menu Tampermonkey → *🔑 Imposta/Reimposta password*.
